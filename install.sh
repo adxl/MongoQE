@@ -6,3 +6,4 @@ cd;
 echo $ALIAS$PATH"; ./qe.sh'" >> .bashrc;
 source .bashrc;
 
+echo "Done"

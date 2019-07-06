@@ -32,7 +32,7 @@ do
 done < FILE;
 
 if [ ${#COLLECTIONS[@]} -eq 0 ]; then
-    echo $DATABASE" is empty or doesn't exist.";
+    echo $DATABASE" is empty or does not exist.";
     exit;
 fi
 
