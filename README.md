@@ -4,8 +4,8 @@ MongoQE is a simple tool that allows you to export a MongoDB database in one sim
 
 ## HOW TO INSTALL
 
-1- Download the project.  
-2- Extract the file.  
+1- Download the ZIP.  
+2- Extract it.  
 3- cd to MongoQE folder.  
 4- Run "install.sh"  
 
