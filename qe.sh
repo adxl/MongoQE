@@ -51,3 +51,5 @@ cd $DATABASE"_EXPORTED";
 rm FILE;
 
 echo $DATABASE" exported, for more details check LOG file.";
+
+nautilus . ;
